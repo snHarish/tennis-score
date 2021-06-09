@@ -1,5 +1,7 @@
 # tennis-score board, Enters the scores for 2 palyers and show the no of games and match won by each players
 
+# This appcation uses React and Typescript 
+
 ## Getting started
 
 - `npm install`
